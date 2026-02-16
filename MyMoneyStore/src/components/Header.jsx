@@ -6,7 +6,7 @@ function Header(props) {
   return (
     <>
         <div className="relative overflow">
-        <div className="pt-6 pb-16 sm:pb-24 bg-radial relative from-orange-200 via-transparent to-transparent">
+        <div className="pt-6 pb-16 sm:pb-24 bg-radial relative via-transparent to-transparent">
             <div className="mx-auto px-4 sm:px-6 max-w-7xl">
             <nav aria-label="Global" className="items-center justify-between sm:h-10 md:justify-center relative flex">
                 <div className="items-center md:absolute md:inset-y-0 md:left-0 flex flex-1">
